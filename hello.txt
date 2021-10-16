@@ -8,3 +8,4 @@ hello world
 7777
 master 
 hot-fix
+clone
